@@ -36,10 +36,10 @@ const obj3 ={...obj1, ...obj2, ...obj4}
 // console.log(tinderUser.hasOwnProperty('isLogged'));
 
 
-const course = {
+const course={
     coursename: "js in hindi",
     price: "999",
-    courseInstructor: "hitesh"
+    courseInstructor: "Ayush"
 }
 
 // course.courseInstructor
@@ -47,3 +47,13 @@ const course = {
 const {courseInstructor: Instructor} = course
 
 console.log(Instructor);
+
+// {
+//     "name": "Ayush",
+//     "coursename": "js in hindi",
+//     "price": "free"
+// }
+
+[
+    
+]
